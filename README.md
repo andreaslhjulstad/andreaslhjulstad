@@ -3,7 +3,7 @@
 **👋 Hey, I'm Andreas!**  
 
 👨‍🎓 Education: Fourth year computer science student at NTNU specializing in software engineering  
-💼 Experience: mostly web development, looking to become a better backend developer  
+💼 Experience: Mostly web development, looking to become a better backend developer  
 🌱 Currently learning: Go and Rust
 
 ## 💻 Languages and tools I use
