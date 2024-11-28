@@ -1,3 +1,4 @@
+<!---
 ## 👨‍💻 About me
 
 **👋 Hey, I'm Andreas!**  
@@ -8,3 +9,4 @@
 
 ## 💻 Languages and tools I use
 [![My Skills](https://skillicons.dev/icons?i=ts,kotlin,java,python,react,nodejs,nextjs,spring,django,tailwind,postgres,firebase,docker,figma,git)](https://skillicons.dev)
+-->
